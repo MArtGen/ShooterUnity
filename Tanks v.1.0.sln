@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanks v.1.0", "Tanks v.1.0.csproj", "{6DC34E0F-06F0-CFF4-0506-F718D9C95CFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanks v.1.0.Plugins", "Tanks v.1.0.Plugins.csproj", "{E071F4CD-78ED-CD6B-CE79-B4588D50433D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanks v.1.0.Editor", "Tanks v.1.0.Editor.csproj", "{CE164E84-96C4-09F6-718D-E6E6B84498F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanks v.1.0.Editor.Plugins", "Tanks v.1.0.Editor.Plugins.csproj", "{7819A881-D43A-0BA5-7AE4-6FC2C37D8E9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DC34E0F-06F0-CFF4-0506-F718D9C95CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC34E0F-06F0-CFF4-0506-F718D9C95CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC34E0F-06F0-CFF4-0506-F718D9C95CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC34E0F-06F0-CFF4-0506-F718D9C95CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E071F4CD-78ED-CD6B-CE79-B4588D50433D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E071F4CD-78ED-CD6B-CE79-B4588D50433D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E071F4CD-78ED-CD6B-CE79-B4588D50433D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E071F4CD-78ED-CD6B-CE79-B4588D50433D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE164E84-96C4-09F6-718D-E6E6B84498F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE164E84-96C4-09F6-718D-E6E6B84498F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE164E84-96C4-09F6-718D-E6E6B84498F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE164E84-96C4-09F6-718D-E6E6B84498F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7819A881-D43A-0BA5-7AE4-6FC2C37D8E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7819A881-D43A-0BA5-7AE4-6FC2C37D8E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7819A881-D43A-0BA5-7AE4-6FC2C37D8E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7819A881-D43A-0BA5-7AE4-6FC2C37D8E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
